@@ -3432,7 +3432,9 @@ function NuN_GetLoc()
 
 	myCID = GetCurrentMapContinent();
 	if ( ( myCID ~= nil) and ( myCID > 0 ) ) then
-		myC = c_continents[myCID].name;
+		if c_continents[myCID] then
+			myC = c_continents[myCID].name;
+		end
 	end
 	if ( myC ~= nil ) then
 		locData = locData..myC..", ";
