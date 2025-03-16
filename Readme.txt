@@ -1,3 +1,9 @@
+Turtle update
+-------------
+- Fixed lua error when in an insatne
+Moved buttons on friend and guild frames to prevent overlap with other addons
+
+
 
 NotesUNeed v3.21.11000 - Telic of Dragonblight (EU)
 --------------------------------------------------
