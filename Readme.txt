@@ -1,7 +1,7 @@
 Turtle update
 -------------
 - Fixed lua error when in an insatne
-Moved buttons on friend and guild frames to prevent overlap with other addons
+- Moved buttons on friend and guild frames to prevent overlap with other addons
 
 
 
